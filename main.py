@@ -8,5 +8,3 @@ if d == 0:
     print("X = " + str((b * -1) / (2 * a)))
 if d > 0:
     print("X1 = " + str(((b * -1) + d ** 0.5) / (2 * a)) + "\n" + "X2 = " + str(((b * -1) - d ** 0.5) / (2 * a)))
-
-print("bebebeebeebebebeb")
